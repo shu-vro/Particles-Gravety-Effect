@@ -4,6 +4,7 @@ Particles Gravety Effect  &lt;HTML> {CSS} (JavaScript)
 `Hello, guys!`
 Welcome to another episode of `Particles Effect` Where I will going to Design some cool particles Effect. I have More episodes which are: 
 ## Repos:
+* [Particles Gass Effect](https://github.com/shu-vro/Particles-Gas-Effect)
 * [FireWork Particle Effect](https://github.com/shu-vro/Firework-Particle-Animation)
 * [Particles Text Effect](https://github.com/shu-vro/Particles-Text-Effect)
 * [Particles Effect Connectable](https://github.com/shu-vro/Particles-Effect_Connectable)

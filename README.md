@@ -60,7 +60,7 @@ function init() {
     for (let i = 0; i < 50; i++) {
         let radius = Math.random() * 20 + 10;
         let x = Math.random() * canvas.width - radius;
-        let y = Math.random() * canvas.height / 2;
+        let y = Math.random() * canvas.height - radius;
         let color = `hsl(${Math.round(Math.random() * 360)}, 100%, 50%)`;
         let velocity = {
             x: Math.random() * 5 - 2.5,
